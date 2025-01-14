@@ -26,4 +26,4 @@ Este projeto tem como objetivo demonstrar o uso do **Flexbox** para criar um lay
 
 Projeto focado em ensinar e demonstrar a aplicação do **Flexbox** na construção de layouts responsivos.
 
-Powered by Gabriel Silveira
+Desenvolvido por Gabriel Silveira 🚀
